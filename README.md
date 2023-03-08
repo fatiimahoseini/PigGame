@@ -5,7 +5,7 @@
 Pig Game || Collect 100 points to win.
 
 # DEMO
-<a href="https://pig-game-nox.netlify.app/" target="_blank">🕹 Live Demo</a>
+<a href="https://quiz-game-nox.netlify.app/" target="_blank">🕹 Live Demo</a>
 
 # BUILT WITH
 - HTML&CSS
